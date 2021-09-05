@@ -1,10 +1,8 @@
 # HTB-Status for Polybar
 
-Is a polybar module that will show you your progress in Hack The Box indicating your current rank, global rank, points and respect.
+Is a polybar module that will show you your progress in Hack The Box indicating your current rank, global rank, points and respect (highly customizable).
 
-![imagen](https://i.ibb.co/5nrQ9xZ/imagen.png)
-
-no... i haven't been given respect yet :(
+![image](https://user-images.githubusercontent.com/19918951/132131908-d9b4d1c4-1649-4d0d-8933-0de0337b420e.png) 
 
 ## Installation
 · Copy htbstatus.sh and htbstatus.py files to ~/.config/bin
